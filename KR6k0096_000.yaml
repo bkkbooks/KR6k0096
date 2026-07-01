@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0096/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網經玄義
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X38/X38n0693.xml
+    old_id: X38n0693
+hash: sha256:ec0ac2721828cad78639529afc42c7fb06f2039b5ddd074616d1ebd5d9bac91d

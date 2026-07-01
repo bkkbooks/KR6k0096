@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0096/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0096/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網經玄義
+  identifiers:
+    krp: KR6k0096
+    cbeta: X38n0693
+    cbeta_old_id: X38n0693
+    authorityid: CA0000991
+    json_key: X0693
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X38/X38n0693.xml
+    old_id: X38n0693
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0096_000-X.yaml, hash: 'sha256:ec0ac2721828cad78639529afc42c7fb06f2039b5ddd074616d1ebd5d9bac91d'}
+  - {seq: 1, filename: KR6k0096_001-X.yaml, hash: 'sha256:ca9188c4876b62b4d2f4f576ca72e20595a52137f28fc948f3f321cfcb0cc348'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0096_000-X.markers.yaml, hash: 'sha256:efa4baea3d9445965cb540384746437d63e4de0972f98811aad5f312a5a0e681'}
+  - {seq: 1, role: markers, filename: assets/KR6k0096_001-X.markers.yaml, hash: 'sha256:c6134765a76065ae4bcdfd0b28b302c5c41ecfe663ecdf841f872c9dbc768ee6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0096_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 14935
+  label: 佛說梵網經菩薩心地品玄義
+  type: juan
+  level: 1
+hash: sha256:813d9901f0d6d645327b94f2a77a8cd07d09141c6efcf0c2c708258e1fed5403
