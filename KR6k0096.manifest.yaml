@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0096_000.yaml, hash: 'sha256:ec0ac2721828cad78639529afc42c7fb06f2039b5ddd074616d1ebd5d9bac91d'}
-  - {seq: 1, filename: KR6k0096_001.yaml, hash: 'sha256:8571f044da8994847f33594cac63f7147ce3f6b77bd807b6155c9679e76cf8fa'}
+  - {seq: 1, filename: KR6k0096_001.yaml, hash: 'sha256:ca9188c4876b62b4d2f4f576ca72e20595a52137f28fc948f3f321cfcb0cc348'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0096_001.markers.yaml, hash: 'sha256:bfb00d8b94edcc722e9a6fd45ed336f858af4318bcc83dd92f85bb61901122ea'}
+  - {seq: 0, role: markers, filename: assets/KR6k0096_000.markers.yaml, hash: 'sha256:baf286dba70879a9bb21d8ec3362fde5c05f13374a66e4383b86d7ba08acba14'}
+  - {seq: 1, role: markers, filename: assets/KR6k0096_001.markers.yaml, hash: 'sha256:52bbc6b99dfbf15dc09971121607f330629a9ab879038236f62b56b9432e8b29'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說梵網經菩薩心地品玄義
   type: juan
   level: 1
-hash: sha256:89629a2fca2ee9a8e749d468f45b933b2f7406fbe0963a466d56b32960d9c386
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bdbe129aac9965e67c45fc6e18dc0607b98405293d4ed6cfb44c8ac5c7d07719
