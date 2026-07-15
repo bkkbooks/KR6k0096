@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0096/v1
 canonical_location: https://kanripo.org/bkk/KR6k0096/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 梵網經玄義
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0096_000.yaml, hash: 'sha256:ec0ac2721828cad78639529afc42c7fb06f2039b5ddd074616d1ebd5d9bac91d'}
-  - {seq: 1, filename: KR6k0096_001.yaml, hash: 'sha256:ca9188c4876b62b4d2f4f576ca72e20595a52137f28fc948f3f321cfcb0cc348'}
+  - {seq: 1, filename: KR6k0096_001.yaml, hash: 'sha256:2ebda806992d123d5e1110db5ac60b4f86ca867c68933796d03aca2320f1cf00'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0096_000.markers.yaml, hash: 'sha256:baf286dba70879a9bb21d8ec3362fde5c05f13374a66e4383b86d7ba08acba14'}
-  - {seq: 1, role: markers, filename: assets/KR6k0096_001.markers.yaml, hash: 'sha256:52bbc6b99dfbf15dc09971121607f330629a9ab879038236f62b56b9432e8b29'}
+  - {seq: 1, role: markers, filename: assets/KR6k0096_001.markers.yaml, hash: 'sha256:2a0db3aabc02e4e461aca3d4a83f98c01ef796b4a25705a63b97a5854e626fbf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說梵網經菩薩心地品玄義
   type: juan
   level: 1
-hash: sha256:bdbe129aac9965e67c45fc6e18dc0607b98405293d4ed6cfb44c8ac5c7d07719
+hash: sha256:9eb569b7b734925ffc01e86d04e0327f2451f44f8ec9df24cf60935ec1844905
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
